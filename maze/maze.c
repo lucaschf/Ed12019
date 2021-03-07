@@ -4,8 +4,6 @@
 
 #include "maze.h"
 #include "constants.h"
-#include "stack.h"
-#include "list.h"
 
 char *getErrorMessage(int errorCode) {
     switch (errorCode) {
