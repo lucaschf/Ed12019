@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lucas/Desktop/lucascristovam-circularlist-54a990b94ef1/lista.c
+stdlib.h
+-
+stdio.h
+-
+lista.h
+C:/Users/lucas/Desktop/lucascristovam-circularlist-54a990b94ef1/lista.h
+
+C:/Users/lucas/Desktop/lucascristovam-circularlist-54a990b94ef1/lista.h
+
+C:/Users/lucas/Desktop/lucascristovam-circularlist-54a990b94ef1/main.c
+stdio.h
+-
+lista.h
+C:/Users/lucas/Desktop/lucascristovam-circularlist-54a990b94ef1/lista.h
+
